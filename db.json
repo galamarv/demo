@@ -1,9 +1,16 @@
 {
-  "data" : {
+  "generateToken" : {
   "expiredRefreshToken": "23/10/2019 15:28:28", 
   "expiredAccessToken": "17/10/2019 15:28:28", 
   "refreshToken": "faea3507389cdb37487bcc68a8524040a850e008", 
   "accessToken": "0ecebd58596452eef625a853d4b6b1c7b21a797e", 
   "status": "ACTIVE"
   }
+  "refreshToken" : {
+"expiredRefreshToken": "23/10/2019 15:28:28", 
+  "expiredAccessToken": "17/10/2019 15:28:28", 
+  "refreshToken": "faea3507389cdb37487bcc68a8524040a850e008", 
+  "accessToken": "1ecebd58596452eef625a853d4b6b1c7b21a797e", 
+  "status": "ACTIVE"
+}
 }
