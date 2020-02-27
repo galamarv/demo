@@ -1,62 +1,58 @@
 {
-  "generateToken" : {
-  "expiredRefreshToken": "23/10/2019 15:28:28", 
-  "expiredAccessToken": "17/10/2019 15:28:28", 
-  "refreshToken": "faea3507389cdb37487bcc68a8524040a850e008", 
-  "accessToken": "0ecebd58596452eef625a853d4b6b1c7b21a797e", 
-  "status": "ACTIVE"
-  }
-  "refreshToken" : {
-"expiredRefreshToken": "23/10/2019 15:28:28", 
-  "expiredAccessToken": "17/10/2019 15:28:28", 
-  "refreshToken": "faea3507389cdb37487bcc68a8524040a850e008", 
-  "accessToken": "1ecebd58596452eef625a853d4b6b1c7b21a797e", 
-  "status": "ACTIVE"
-}
-"orderDetail" : {
-    "orders": [
-        {
-            "payment": 149940.00,
-            "orderNumber": "420123948354503902",
-            "items": [
-                {
-                    "title": "Piayam Tidur Wa0022",
-                    "imageUrl": "//s.blanjadev.com/picspace/600/100952/1024.1024_b9eeb0a6f1514787ac091607d9683 cdb.jpg?w=80",
-                    "qty": 2,
-                    "variant": "Size: S, Warna: hitam"
-                },
-                {
-                    "title": "Shampo Pantene Sachet 1 Renceng",
-                    "imageUrl": "//s.blanjadev.com/picspace/600/100952/2048.1587_c94c4cad806e490ca8675f577612714 e.jpg ? w = 80 ",
-                }
-            ],
-            "qty": 2,
-            "variant": ""
-        },
-        {
-            "payment": 27228.00,
-            "orderNumber": "420123948351224902",
-            "items": [
-                {
+    "generateToken": {
+        "expiredRefreshToken": "23/10/2019 15:28:28",
+        "expiredAccessToken": "17/10/2019 15:28:28",
+        "refreshToken": "faea3507389cdb37487bcc68a8524040a850e008",
+        "accessToken": "0ecebd58596452eef625a853d4b6b1c7b21a797e",
+        "status": "ACTIVE"
+    },
+    "refreshToken": {
+        "expiredRefreshToken": "23/10/2019 15:28:28",
+        "expiredAccessToken": "17/10/2019 15:28:28",
+        "refreshToken": "faea3507389cdb37487bcc68a8524040a850e008",
+        "accessToken": "1ecebd58596452eef625a853d4b6b1c7b21a797e",
+        "status": "ACTIVE"
+    },
+    "orderDetail": {
+        "orders": [{
+                "payment": 149940.00,
+                "orderNumber": "420123948354503902",
+                "items": [{
+                        "title": "Piayam Tidur Wa0022",
+                        "imageUrl": "//s.blanjadev.com/picspace/600/100952/1024.1024_b9eeb0a6f1514787ac091607d9683 cdb.jpg?w=80",
+                        "qty": 2,
+                        "variant": "Size: S, Warna: hitam"
+                    },
+                    {
+                        "title": "Shampo Pantene Sachet 1 Renceng",
+                        "imageUrl": "//s.blanjadev.com/picspace/600/100952/2048.1587_c94c4cad806e490ca8675f577612714 e.jpg ? w = 80 ",
+                    }
+                ],
+                "qty": 2,
+                "variant": ""
+            },
+            {
+                "payment": 27228.00,
+                "orderNumber": "420123948351224902",
+                "items": [{
                     "title": "Shampoo Kucing Anjing",
                     "imageUrl": "//s.blanjadev.com/picspace/634/100986/1500.1500_47f8150701bb4980aa1cb6c29dfec 056.jpg?w=80",
-                }
-            ],
-            "qty": 2,
-            "variant": ""
-        }
-    ],
-    "paymentCode": "01021695290001D",
-    "receiver": {
-        "phone": "081380556241",
-        "address": "Mulia Bussines Park Blanja.Com",
-        "name": "Fawaz FauNah"
-    },
-    "buyer": {
-        "email": "fawfaubuyer1@gmail.com",
-        "nick": "fawaz_fn_gmail_com"
-    },
-    "paymentStatus": "CLOSED",
-    "totalPayment": 177168.00
-}
+                }],
+                "qty": 2,
+                "variant": ""
+            }
+        ],
+        "paymentCode": "01021695290001D",
+        "receiver": {
+            "phone": "081380556241",
+            "address": "Mulia Bussines Park Blanja.Com",
+            "name": "Fawaz FauNah"
+        },
+        "buyer": {
+            "email": "fawfaubuyer1@gmail.com",
+            "nick": "fawaz_fn_gmail_com"
+        },
+        "paymentStatus": "CLOSED",
+        "totalPayment": 177168.00
+    }
 }
